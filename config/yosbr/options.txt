@@ -52,7 +52,9 @@ key_Toggle 'observer_update':key.keyboard.unknown
 key_Toggle 'interact_block':key.keyboard.unknown
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
+key_axiom.keybind.toggle_replace_mode_cap:key.keyboard.unknown
 key_key.commandkeys.main.edit:key.keyboard.unknown
+key_key.optigui.inspect:key.keyboard.unknown
 key_key.replaymod.playeroverview:key.keyboard.unknown
 key_key.replaymod.lighting:key.keyboard.unknown
 key_key.replaymod.quickmode:key.keyboard.unknown
@@ -81,3 +83,7 @@ key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.unknown
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_iris.keybind.wireframe:key.keyboard.unknown
