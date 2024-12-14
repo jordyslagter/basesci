@@ -1,2 +1,66 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "2fe7f730ed1e69326a938cca8db3dd4d4452b05cddb856cb50b5478b2ae79fe0"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "71967a5cb410525b8e7ee0b59f5d6919733a802fcde52fd9d3dd0d75d53ea0a6"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "f42ac5b765061a9246f62bb63f682303c707c02addd50278cc078395c64e0dab"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "b231bd45453dfc94f49786b5da727dbae5ed1f02c01d54a124e971b48c7555f2"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "cd5b9b8647e4403ff283d49a1043a43ae953deb1e408f237beb177a31fd9c17a"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "ada74e6d4149631f2b442d2f0061b0179feef576bbf4b5cd28bbcc7de1380b7e"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "3c63c0bb4c0d0da3e2c3a0992c3d1f12d17cb1c3c953b56ab5ca29403df10613"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "52b25d589bdb56a6b73c086432543f35a8e004cfbefcfb775fb2fd9c74f37962"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "7f4eb7cddc4337e97b3f38e70c90f26a0d58ed69c58d6292d22960144db9d098"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "2bb98e85692f4bd557ba191d3f598f84509f7eddad0c9a2c499eb00c41c80b1d"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "6136fc60427d37f49b7b58a030d67bbd68fd60a0eaf459f4f9fe0058858f07d4"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "3a0e541097f895f31e52f0eb802fc2bbedddc9045bbfc62c37e99b7d7c6faca8"
+metafile = true
