@@ -55,6 +55,7 @@ mods.
 <details>
 <summary>Misc Mods</summary>
 
+- Bobby
 - Simple Voice Chat
 - Camera Utils
 - E4mc
