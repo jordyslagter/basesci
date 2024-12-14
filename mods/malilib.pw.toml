@@ -1,0 +1,7 @@
+name = "malilib"
+filename = "malilib-fabric-1.21.4-0.23.0-sakura.3.jar"
+
+[download]
+url = "https://github.com/sakura-ryoko/malilib/releases/download/1.21.4-0.23.0-sakura.3/malilib-fabric-1.21.4-0.23.0-sakura.3.jar"
+hash-format = "sha256"
+hash = "101f9d6531a1317ddba59e8f02ab9cf2072b433f7c8f8f82a97f7d85783385f2"

@@ -1,8 +1,33 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "e77924d62045c29de5694b9a9d01740f58b91dde24e0390fc0d743170c5a6a43"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "7ea96126369fbfd3e20d6e607abd4ac8e87bbbdd9cb6406ed2a7e348732e36aa"
+metafile = true
+
+[[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "1bdb45728e78c2b2e82613b3088e53a7426f8784a61d4959dbbea01b8d2bf680"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "ed97fa13f6d2e5f5202c65791ad4cca9fcb683ba64be7bbc741ab5f9214689a5"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "2fe7f730ed1e69326a938cca8db3dd4d4452b05cddb856cb50b5478b2ae79fe0"
+metafile = true
+
+[[files]]
+file = "mods/commandkeys.pw.toml"
+hash = "eaf59fb6dca4e3dfaa2227950ab39d39b92caf59f01416e89de662dc3ac6902c"
 metafile = true
 
 [[files]]
@@ -21,8 +46,18 @@ hash = "b231bd45453dfc94f49786b5da727dbae5ed1f02c01d54a124e971b48c7555f2"
 metafile = true
 
 [[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "b88d5927053bd68074e0b00f942a54cfe93aa86869eb6aabb3f8f7e9644874dd"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "cd5b9b8647e4403ff283d49a1043a43ae953deb1e408f237beb177a31fd9c17a"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "4daf4333e077af7302ee17b14c7d45c245b89be171e2f5f9659033a458371cbb"
 metafile = true
 
 [[files]]
@@ -36,8 +71,53 @@ hash = "3c63c0bb4c0d0da3e2c3a0992c3d1f12d17cb1c3c953b56ab5ca29403df10613"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "4a6f44244e26d5e257d1c4fa9c8e0bdd0aa871bcf883cd2b66fb6cb0b05ca134"
+metafile = true
+
+[[files]]
+file = "mods/item-scroller.pw.toml"
+hash = "76be21304d88abd885bed5cadbdb300ebbbd5b28dc91d6b7606213d0e7ba0f60"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "be60214adb94b1e5e9cfb3070b9a768e1250b6383d93382055595099399ea2ae"
+metafile = true
+
+[[files]]
+file = "mods/libjf.pw.toml"
+hash = "2d8e4f8462fedf1c88cb740ed674355c191fdd074249127c72f1ef2abce16640"
+metafile = true
+
+[[files]]
+file = "mods/litematica-printer.pw.toml"
+hash = "f99c1b11f13926f7f830c1ec7ff1180d99546de5db3188c0d23e5fcf45b27153"
+metafile = true
+
+[[files]]
+file = "mods/litematica-server-paster.pw.toml"
+hash = "7af47cf77f1bdfb62275eee13298140a41f6414f8195f65d9d7aee93751390b4"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "981d36a836f781621242a00cd44c0fd2f3e93592e017c48c0427b650dd3beb2b"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "52b25d589bdb56a6b73c086432543f35a8e004cfbefcfb775fb2fd9c74f37962"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "a4064f1afc54b39aa435d56cee65ac1c2da8362798895359d1436738cd422c0f"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "79ff2f720b95de0bb796f73145dbd56ae303496cd95ea9ede451542395e8c90e"
 metafile = true
 
 [[files]]
@@ -56,11 +136,61 @@ hash = "2bb98e85692f4bd557ba191d3f598f84509f7eddad0c9a2c499eb00c41c80b1d"
 metafile = true
 
 [[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "7246efa2739a04e4f72461293c6b7daa1d71bd96504aa25e98248388e4741edb"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "6136fc60427d37f49b7b58a030d67bbd68fd60a0eaf459f4f9fe0058858f07d4"
 metafile = true
 
 [[files]]
+file = "mods/redstone-multimeter.pw.toml"
+hash = "61c3a101a19bdb4d9a425a797683aef8cada18a92acbeee4e96bf278b5a97fb4"
+metafile = true
+
+[[files]]
+file = "mods/respackopts.pw.toml"
+hash = "4b5aa995dc458b9cc26197801723d83ce3c6ae718d95949a2d926917c030a5ac"
+metafile = true
+
+[[files]]
+file = "mods/servux.pw.toml"
+hash = "9249c34f94538e1b678db8bc9cca6a4fafce332d28ffb71d410721597994390c"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "3a0e541097f895f31e52f0eb802fc2bbedddc9045bbfc62c37e99b7d7c6faca8"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "e27fe109700a01799ec17f0f8ca473394a7de5cf3b527bcc8fd35bf2e62d77a9"
+metafile = true
+
+[[files]]
+file = "mods/syncmatica.pw.toml"
+hash = "daf58bcb10af29f0f5b1ea01d54e7a482d2f16ea3c5098404a516fd400851d07"
+metafile = true
+
+[[files]]
+file = "mods/tweakermore.pw.toml"
+hash = "d1d31b79b570c1e4b7acf1b4073ce0fe25e970aab9f7e9d7e9e853f629d92149"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "4d4d38143640d77ac9ccdea3625e52fdc03a988effd6e4a75eca7e9e167c4dec"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "248b7fcb9e81f5f67053e74e33eb01555284577e648aca1df47ad49cb0792e28"
+metafile = true
+
+[[files]]
+file = "resourcepacks/redstone-tweaks.pw.toml"
+hash = "e281253acaa2c3f57f6428d3e7fd85ded4683ad7323360718c7ef8e78dea4bf3"
 metafile = true
