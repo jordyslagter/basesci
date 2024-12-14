@@ -1,6 +1,46 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "af7b80da2f9626d22cd2448e1030b74636e83bd99dab7040598a010a1033aee8"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/yosbr/config/enhanced_bes.properties"
+hash = "541349ebbf4a02fda7d19b1a135423c17e27b43e9108ca165d7e2427cef8a0bc"
+
+[[files]]
+file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "84677f0e67f83631e3737014cdb9a606d651f3c337f401a57d91453e069028f9"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "98769d10a530e301a95ad1da8a710c8671e93d8be7b921cc614da63f64523fdb"
+
+[[files]]
+file = "config/yosbr/config/redstone_multimeter/hotkeys.txt"
+hash = "74cdd1ac9f309755869ad89f547c34cd15124db625af38e4ca9372fdeee8dfaf"
+
+[[files]]
+file = "config/yosbr/config/redstone_multimeter/options.txt"
+hash = "c65678f179afaf199137d92a850e6130e8051675f0bcc81218a4fb3a203007a8"
+
+[[files]]
+file = "config/yosbr/config/replaymod.json"
+hash = "b0de7bcbab3c360450369bba7d647562c7610c9f11e9fb44bbd1e3fdb8460d08"
+
+[[files]]
+file = "config/yosbr/g4mespeed/cache/hotkeys.cfg"
+hash = "9424ab9737c356fb48684b57b43137eef7c499fc04ab9d1251478a78bb18505d"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "20800a79d9e7c6f4606b8c8cb2fc4dd853b529f3d8377e0d511ff92c7ed28b6c"
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "e77924d62045c29de5694b9a9d01740f58b91dde24e0390fc0d743170c5a6a43"
 metafile = true
@@ -111,6 +151,11 @@ hash = "52b25d589bdb56a6b73c086432543f35a8e004cfbefcfb775fb2fd9c74f37962"
 metafile = true
 
 [[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "732e3a5fb7d7c41c380d1ba92118293db75d5a7f2c05a6df6ac04c54c4bd1a22"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "a4064f1afc54b39aa435d56cee65ac1c2da8362798895359d1436738cd422c0f"
 metafile = true
@@ -191,6 +236,16 @@ hash = "248b7fcb9e81f5f67053e74e33eb01555284577e648aca1df47ad49cb0792e28"
 metafile = true
 
 [[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
 file = "resourcepacks/redstone-tweaks.pw.toml"
 hash = "e281253acaa2c3f57f6428d3e7fd85ded4683ad7323360718c7ef8e78dea4bf3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "302defb5c766d4d99ba7c1e1eb12839aa3e47b6605a9a36a279c440b2c98b141"
 metafile = true

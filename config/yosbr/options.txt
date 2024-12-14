@@ -1,0 +1,82 @@
+version:3700
+autoJump:false
+operatorItemsTab:true
+enableVsync:true
+reducedDebugInfo:false
+darkMojangStudiosBackground:true
+screenEffectScale:0.0
+darknessEffectScale:0.0
+narratorHotkey:false
+gamma:1.0
+maxFps:260
+simulationDistance:8
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Redstone Tweaks 2.4.7.zip"]
+incompatibleResourcePacks:[]
+advancedItemTooltips:true
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+telemetryOptInExtra:false
+onboardAccessibility:false
+key_key.socialInteractions:key.keyboard.unknown
+key_Toggle Meter:key.keyboard.unknown
+key_Reset Meter:key.keyboard.unknown
+key_Load Meter Group:key.keyboard.unknown
+key_Save Meter Group:key.keyboard.unknown
+key_Pause Meters:key.keyboard.unknown
+key_Toggle Focus Mode:key.keyboard.unknown
+key_Toggle Tick Marker:key.keyboard.unknown
+key_Step Backward:key.keyboard.unknown
+key_Step Forward:key.keyboard.unknown
+key_Scroll HUD:key.keyboard.unknown
+key_Toggle HUD:key.keyboard.unknown
+key_Open Multimeter Screen:key.keyboard.unknown
+key_Open Meter Controls:key.keyboard.unknown
+key_Open Options Menu:key.keyboard.unknown
+key_View Tick Phases:key.keyboard.unknown
+key_Print Logs To File:key.keyboard.unknown
+key_Toggle 'powered':key.keyboard.unknown
+key_Toggle 'active':key.keyboard.unknown
+key_Toggle 'moved':key.keyboard.unknown
+key_Toggle 'power_change':key.keyboard.unknown
+key_Toggle 'random_tick':key.keyboard.unknown
+key_Toggle 'scheduled_tick':key.keyboard.unknown
+key_Toggle 'block_event':key.keyboard.unknown
+key_Toggle 'entity_tick':key.keyboard.unknown
+key_Toggle 'block_entity_tick':key.keyboard.unknown
+key_Toggle 'block_update':key.keyboard.unknown
+key_Toggle 'comparator_update':key.keyboard.unknown
+key_Toggle 'shape_update':key.keyboard.unknown
+key_Toggle 'observer_update':key.keyboard.unknown
+key_Toggle 'interact_block':key.keyboard.unknown
+key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
+key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
+key_key.commandkeys.main.edit:key.keyboard.unknown
+key_key.replaymod.playeroverview:key.keyboard.unknown
+key_key.replaymod.lighting:key.keyboard.unknown
+key_key.replaymod.quickmode:key.keyboard.unknown
+key_key.replaymod.settings:key.keyboard.unknown
+key_key.replaymod.marker:key.keyboard.unknown
+key_key.replaymod.thumbnail:key.keyboard.unknown
+key_key.replaymod.playpause:key.keyboard.unknown
+key_key.replaymod.rollclockwise:key.keyboard.unknown
+key_key.replaymod.rollcounterclockwise:key.keyboard.unknown
+key_key.replaymod.resettilt:key.keyboard.unknown
+key_key.replaymod.pathpreview:key.keyboard.unknown
+key_key.replaymod.keyframerepository:key.keyboard.unknown
+key_key.replaymod.clearkeyframes:key.keyboard.unknown
+key_key.replaymod.synctimeline:key.keyboard.unknown
+key_key.replaymod.positionkeyframe:key.keyboard.unknown
+key_key.replaymod.positiononlykeyframe:key.keyboard.unknown
+key_key.replaymod.timekeyframe:key.keyboard.unknown
+key_key.replaymod.bothkeyframes:key.keyboard.unknown
+key_key.push_to_talk:key.keyboard.unknown
+key_key.whisper:key.keyboard.unknown
+key_key.mute_microphone:key.keyboard.comma
+key_key.disable_voice_chat:key.keyboard.unknown
+key_key.hide_icons:key.keyboard.unknown
+key_key.voice_chat:key.keyboard.period
+key_key.voice_chat_settings:key.keyboard.unknown
+key_key.voice_chat_group:key.keyboard.unknown
+key_key.voice_chat_toggle_recording:key.keyboard.unknown
+key_key.voice_chat_adjust_volumes:key.keyboard.unknown
