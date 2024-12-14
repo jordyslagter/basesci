@@ -41,6 +41,7 @@ mods.
 - G4mespeed
 - Redstone Multimeter
 - Redstone Tweaks (with ResPackOpts)
+- Axiom
 - Extreme Sound Muffler
 - CommandKeys
 - Auto lectern
