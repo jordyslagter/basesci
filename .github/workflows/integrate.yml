@@ -1,0 +1,23 @@
+name: Pull Request Continuous Integration
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - "config/**"
+      - "mods/**"
+      - "resourcepacks/**"
+      - "index.toml"
+      - "pack.toml"
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Export
+        run: |
+          docker run --rm -v $(pwd):/workspace dalbitresb12/packwiz modrinth export

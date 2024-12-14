@@ -1,0 +1,54 @@
+name: Push To Main Continuous Deployment
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "config/**"
+      - "mods/**"
+      - "resourcepacks/**"
+      - "index.toml"
+      - "pack.toml"
+
+jobs:
+  export_and_deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate version
+        id: version
+        run: echo "date=$(date +'%Y-%m-%d-%H-%M')" >> $GITHUB_OUTPUT
+
+      - name: Export
+        run: |
+          docker run --rm -v $(pwd):/workspace dalbitresb12/packwiz modrinth export --output "basesci-${{ steps.version.outputs.date }}.mrpack"
+
+      - name: Deploy to GitHub
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          github-tag: ${{ steps.version.outputs.date }}
+          github-generate-changelog: true
+          github-token: ${{ secrets.GH_TOKEN }}
+
+          name: "${{vars.MC_VERSION}} - ${{ steps.version.outputs.date }}"
+          version: ${{ steps.version.outputs.date }}
+          files: "*.mrpack"
+          loaders: fabric
+          game-versions: ${{ vars.MC_VERSION }}
+
+      - name: Deploy to Modrinth
+        uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          modrinth-id: W7qkr930
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          modrinth-unfeature-mode: any
+
+          name: "${{vars.MC_VERSION}} - ${{ steps.version.outputs.date }}"
+          version: ${{ steps.version.outputs.date }}
+          files: "*.mrpack"
+          loaders: fabric
+          game-versions: ${{ vars.MC_VERSION }}
+          changelog: "Changelog: https://www.github.com/SlagterJ/basesci/releases/tag/${{ steps.version.outputs.date }}/"
