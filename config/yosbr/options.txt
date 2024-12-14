@@ -8,6 +8,7 @@ screenEffectScale:0.0
 darknessEffectScale:0.0
 narratorHotkey:false
 gamma:1.0
+graphicsMode:2
 maxFps:260
 simulationDistance:8
 resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Redstone Tweaks 2.4.7.zip","flat_shulker_icons"]

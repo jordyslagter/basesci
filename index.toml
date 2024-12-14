@@ -9,16 +9,32 @@ file = "config/lithium.properties"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "b2713b0ea64ce3f114d0712b7c5dbe6da95ce1fd44a1a97494300294231e8bd0"
+
+[[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
 hash = "541349ebbf4a02fda7d19b1a135423c17e27b43e9108ca165d7e2427cef8a0bc"
+
+[[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "893aec85a0c63123dcb70de5633f70d104e3e2b6a1384206c1aea05fc99d8beb"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "84677f0e67f83631e3737014cdb9a606d651f3c337f401a57d91453e069028f9"
 
 [[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "bc5fc249179fa926c9395c63626120f52f55e5c25638712a3e4008a3737e9013"
+
+[[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "98769d10a530e301a95ad1da8a710c8671e93d8be7b921cc614da63f64523fdb"
+
+[[files]]
+file = "config/yosbr/config/puzzle.json"
+hash = "c9b7c90236ae7a0b0f2970ecf99f78668ccf355b5c7d50a2c6ba61fa5e74f144"
 
 [[files]]
 file = "config/yosbr/config/redstone_multimeter/hotkeys.txt"
@@ -33,12 +49,16 @@ file = "config/yosbr/config/replaymod.json"
 hash = "b0de7bcbab3c360450369bba7d647562c7610c9f11e9fb44bbd1e3fdb8460d08"
 
 [[files]]
+file = "config/yosbr/config/rrls.toml"
+hash = "0d5ec9130dd8f8ec24ef6ff740aa48ad286749a7e4746e95397e4b70783b7f2c"
+
+[[files]]
 file = "config/yosbr/g4mespeed/cache/hotkeys.cfg"
 hash = "9424ab9737c356fb48684b57b43137eef7c499fc04ab9d1251478a78bb18505d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "9eae73bbdecc56820bdb859ef4e468fa866fb16bc6a4d5798f5e4f6f4724d612"
+hash = "1f864017eaafe2f86a35c7e5b56096ed16533f2f7d7f1a539a6b09f774815382"
 
 [[files]]
 file = "mods/bobby.pw.toml"
@@ -48,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/camera-utils.pw.toml"
 hash = "e5597985b715f336fa8f7603ddc3e5d74d1c27934e3ecd2b47739efe10be9f9f"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "2322c64171e282c5f25047231995b2e9af068dc8da79febc0f1b29c9c02afb60"
 metafile = true
 
 [[files]]
@@ -86,8 +111,23 @@ hash = "f42ac5b765061a9246f62bb63f682303c707c02addd50278cc078395c64e0dab"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "6d4178a37dbe220eb455e103818fc642a7e6099a2d24c8f6a0f7e4c5201cf472"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "74ec094a4ab8ea48a9f38e8366d51dcf3872f3df7b9d8153f7f6ac6e6c3ce17d"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "b231bd45453dfc94f49786b5da727dbae5ed1f02c01d54a124e971b48c7555f2"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "be53e28790213e48bd90c1e8addfbc337eec16b8f5cbd0ee55241290036c373b"
 metafile = true
 
 [[files]]
@@ -106,6 +146,11 @@ hash = "4daf4333e077af7302ee17b14c7d45c245b89be171e2f5f9659033a458371cbb"
 metafile = true
 
 [[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "12fd22b00b92a0a5a863cb570e914e00140722df844bb214db66d6448d4bcd4e"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "ada74e6d4149631f2b442d2f0061b0179feef576bbf4b5cd28bbcc7de1380b7e"
 metafile = true
@@ -121,8 +166,18 @@ hash = "4a6f44244e26d5e257d1c4fa9c8e0bdd0aa871bcf883cd2b66fb6cb0b05ca134"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "e10baf8868ec7d5d0188336f9bb36902f8e81b6e91dc82259041bbab70b30e96"
+metafile = true
+
+[[files]]
 file = "mods/item-scroller.pw.toml"
 hash = "76be21304d88abd885bed5cadbdb300ebbbd5b28dc91d6b7606213d0e7ba0f60"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "57d890a26f6441ecdb4c1285f4979f208da16d9d917565844a50a20bd803d49b"
 metafile = true
 
 [[files]]
@@ -196,13 +251,28 @@ hash = "6136fc60427d37f49b7b58a030d67bbd68fd60a0eaf459f4f9fe0058858f07d4"
 metafile = true
 
 [[files]]
+file = "mods/optigui.pw.toml"
+hash = "43f000e70ae059eb868725b81dec036a93965b6dda26ade3dc43f31ca7ce693b"
+metafile = true
+
+[[files]]
 file = "mods/peek.pw.toml"
 hash = "026edfc4b101d576812f91ed7777481aeec3f6acaf99ecc46247af9ef0b5506e"
 metafile = true
 
 [[files]]
+file = "mods/puzzle.pw.toml"
+hash = "5ccb85456b866d5ad30bcc793773af6dc9d94cb188418147a562da820a6941ee"
+metafile = true
+
+[[files]]
 file = "mods/redstone-multimeter.pw.toml"
 hash = "61c3a101a19bdb4d9a425a797683aef8cada18a92acbeee4e96bf278b5a97fb4"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "361ecbeb1043cbd7202cf75f6d58603e0f21139428dd566a63321c01b98c2d2b"
 metafile = true
 
 [[files]]
@@ -218,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "39c206e356119b1898688fd8d3ee155d1ff4965cbf0d2bff9d5a721175216bee"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "b8cd9f9a9985fce11bf5fdcd7fc8e571a14214210d242adc8b58cf79f2380551"
 metafile = true
 
 [[files]]
@@ -253,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "f71396b186ce5ecec39923831d890c2e70edc4dc2c65a6c07d70a77db9e77aa1"
 metafile = true
 
 [[files]]
