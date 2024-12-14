@@ -10,7 +10,7 @@ narratorHotkey:false
 gamma:1.0
 maxFps:260
 simulationDistance:8
-resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Redstone Tweaks 2.4.7.zip"]
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Redstone Tweaks 2.4.7.zip","flat_shulker_icons"]
 incompatibleResourcePacks:[]
 advancedItemTooltips:true
 tutorialStep:none

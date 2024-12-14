@@ -38,11 +38,16 @@ hash = "9424ab9737c356fb48684b57b43137eef7c499fc04ab9d1251478a78bb18505d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "20800a79d9e7c6f4606b8c8cb2fc4dd853b529f3d8377e0d511ff92c7ed28b6c"
+hash = "9eae73bbdecc56820bdb859ef4e468fa866fb16bc6a4d5798f5e4f6f4724d612"
 
 [[files]]
 file = "mods/bobby.pw.toml"
 hash = "e77924d62045c29de5694b9a9d01740f58b91dde24e0390fc0d743170c5a6a43"
+metafile = true
+
+[[files]]
+file = "mods/camera-utils.pw.toml"
+hash = "e5597985b715f336fa8f7603ddc3e5d74d1c27934e3ecd2b47739efe10be9f9f"
 metafile = true
 
 [[files]]
@@ -191,6 +196,11 @@ hash = "6136fc60427d37f49b7b58a030d67bbd68fd60a0eaf459f4f9fe0058858f07d4"
 metafile = true
 
 [[files]]
+file = "mods/peek.pw.toml"
+hash = "026edfc4b101d576812f91ed7777481aeec3f6acaf99ecc46247af9ef0b5506e"
+metafile = true
+
+[[files]]
 file = "mods/redstone-multimeter.pw.toml"
 hash = "61c3a101a19bdb4d9a425a797683aef8cada18a92acbeee4e96bf278b5a97fb4"
 metafile = true
@@ -203,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/servux.pw.toml"
 hash = "9249c34f94538e1b678db8bc9cca6a4fafce332d28ffb71d410721597994390c"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "39c206e356119b1898688fd8d3ee155d1ff4965cbf0d2bff9d5a721175216bee"
 metafile = true
 
 [[files]]
