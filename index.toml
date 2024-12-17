@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/replay-voice-chat.pw.toml"
-hash = "2bb7d72ec2262b937d87597badf7e6a24d449b23deabc50bc5a0e9dc2a3a9335"
+hash = "0ed9b39a58a7cbdc5eb8db49a69cb556fd10a3972babd271ae1e624381a0625e"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a1e0064129fb0caa706c3cc454f720fec07d7cbf7b0b1e2f50841dcf6c441761"
+hash = "ce2bc1974c20510a3ef099c935ad03fbee396cca1241ab673b180c393ccd2163"
 metafile = true
 
 [[files]]
