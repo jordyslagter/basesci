@@ -53,12 +53,24 @@ file = "config/yosbr/config/rrls.toml"
 hash = "0d5ec9130dd8f8ec24ef6ff740aa48ad286749a7e4746e95397e4b70783b7f2c"
 
 [[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "30c2864ceaf8e91638d16d637faa02e9ee424ea09756899d8710477e603f9d7f"
+
+[[files]]
+file = "config/yosbr/config/xaeroplus.txt"
+hash = "7ca1b6438c4474fd8471deb0f5b457c020a73e1e0246b2a0ffece62ffb755a9f"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "75a307c587e57be2dc9c5ec5483efa133e7d96a0bf8a82af3e1010f9595c6ae3"
+
+[[files]]
 file = "config/yosbr/g4mespeed/cache/hotkeys.cfg"
 hash = "9424ab9737c356fb48684b57b43137eef7c499fc04ab9d1251478a78bb18505d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "9970df3aef7f146c134bf13026969e51f15991fcfad6ab185da1b2c26fc1b161"
+hash = "f325c797b25bb8fe7167286cfddb5fe6c6c97ede90bd712f379706d7e7d9b03f"
 
 [[files]]
 file = "mods/axiom.pw.toml"
@@ -338,6 +350,21 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "248b7fcb9e81f5f67053e74e33eb01555284577e648aca1df47ad49cb0792e28"
+metafile = true
+
+[[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "337f098781332a5a4774a75aefabe1693be544b71054f65ef5cc5073e0a296c2"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "92e9b0a2761bcb614ca72150e7d41d1afb066b3efafd7268de804e0d1775ba98"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "6fabede3878419f7300211a1a2f453ad13484cf35b5c213b621fa712d9ab528a"
 metafile = true
 
 [[files]]

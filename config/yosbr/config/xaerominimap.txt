@@ -1,0 +1,5 @@
+allowInternetAccess:false
+updateNotification:false
+lockNorth:true
+infoDisplay:coords:false:15:-1
+interface:gui.xaero_minimap:0:0:false:false:true:false
