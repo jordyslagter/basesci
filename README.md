@@ -1,5 +1,9 @@
 # BaseSci
 
+[![Built on Fabulously Optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_64h.png)](https://download.fo)
+
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/W7qkr930)
+
 Welcome to BaseSci! This is a modpack that includes essential technical mods,
 optimisation mods and Optifine-replacement mods. This modpack was originally
 part of Sundawn MC, however due to Minecraft's change in update philosophy it
@@ -50,6 +54,7 @@ mods.
 - Peek
 - Spark
 - WorldEdit
+- Xaeros Minimap & Worldmap
 
 </details>
 
