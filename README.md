@@ -49,7 +49,7 @@ mods.
 - BetterF3
 - Extreme Sound Muffler
 - CommandKeys
-- Auto lectern
+- LibrGetter
 - NBT Autocomplete
 - ReplayMod
 - Peek
