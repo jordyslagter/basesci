@@ -46,6 +46,7 @@ mods.
 - Redstone Multimeter
 - Redstone Tweaks (with ResPackOpts)
 - Axiom
+- BetterF3
 - Extreme Sound Muffler
 - CommandKeys
 - Auto lectern
