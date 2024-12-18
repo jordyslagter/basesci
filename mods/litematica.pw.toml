@@ -1,7 +1,7 @@
 name = "litematica"
-filename = "litematica-fabric-1.21.4-0.21.0-sakura.6.jar"
+filename = "litematica-fabric-1.21.4-0.21.0-sakura.8.jar"
 
 [download]
-url = "https://github.com/sakura-ryoko/litematica/releases/download/1.21.4-0.21.0-sakura.6/litematica-fabric-1.21.4-0.21.0-sakura.6.jar"
+url = "https://github.com/sakura-ryoko/litematica/releases/download/1.21.4-0.21.0-sakura.8/litematica-fabric-1.21.4-0.21.0-sakura.8.jar"
 hash-format = "sha256"
-hash = "3903758d2821383a4d88c12bec2bbbff2408787e38178dd2d1a2af7ef3a35876"
+hash = "92fcc2a42bc298539234352cb2cea116fb25e70d363a10820ceaf8594696c2ea"

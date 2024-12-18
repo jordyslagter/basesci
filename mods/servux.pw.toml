@@ -1,7 +1,7 @@
 name = "servux"
-filename = "servux-fabric-1.21.4-0.5.0-sakura.2.jar"
+filename = "servux-fabric-1.21.4-0.5.0-sakura.3.jar"
 
 [download]
-url = "https://github.com/sakura-ryoko/servux/releases/download/1.21.4-0.5.0-sakura.2/servux-fabric-1.21.4-0.5.0-sakura.2.jar"
+url = "https://github.com/sakura-ryoko/servux/releases/download/1.21.4-0.5.0-sakura.3/servux-fabric-1.21.4-0.5.0-sakura.3.jar"
 hash-format = "sha256"
-hash = "065930008fa326bade51edd583559f2b883d32de5aa0ca5f8468ceae6515a118"
+hash = "dd959894a51ce167094dc925a23a2d3bc2ee82a628a1b0769808f94c8e24047b"

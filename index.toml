@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "9caabf00ff14627b206f75c0c74af79e64db201ea61ab6936fbf6c8b9aeed499"
+hash = "3810f56064a5a6bd20d2bfd67a24f762f0643323969926f84cc1773c32b784a4"
 metafile = true
 
 [[files]]
@@ -189,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.pw.toml"
-hash = "76be21304d88abd885bed5cadbdb300ebbbd5b28dc91d6b7606213d0e7ba0f60"
+hash = "e58e87e60ab8ab69ebc1bd64a0f335fe837f434f09602da8661f0482eaafc621"
 metafile = true
 
 [[files]]
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica-printer.pw.toml"
-hash = "f99c1b11f13926f7f830c1ec7ff1180d99546de5db3188c0d23e5fcf45b27153"
+hash = "37f15d25df36fe74b3aed00f65c6974f1afa1771257b3c3c6f895268c92cfb9a"
 metafile = true
 
 [[files]]
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "981d36a836f781621242a00cd44c0fd2f3e93592e017c48c0427b650dd3beb2b"
+hash = "cec2dfb2dfa33a86de6dd4a6808650c518f541f7279c4495e627c919f8fc21ab"
 metafile = true
 
 [[files]]
@@ -234,12 +234,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "a4064f1afc54b39aa435d56cee65ac1c2da8362798895359d1436738cd422c0f"
+hash = "28154b3ed0027a392d8b250cb0e6cdea1e54a4c9f219210144852092554211d5"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "79ff2f720b95de0bb796f73145dbd56ae303496cd95ea9ede451542395e8c90e"
+hash = "c6477cf10ecce8d35601d180186a34dca6b88933dfa4660896d41a7f05288658"
 metafile = true
 
 [[files]]
@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "9249c34f94538e1b678db8bc9cca6a4fafce332d28ffb71d410721597994390c"
+hash = "80601f5cf443b031cbba9526831aad1940e7a8a23cfac4aff3a90c910dbfdda3"
 metafile = true
 
 [[files]]
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "3a0e541097f895f31e52f0eb802fc2bbedddc9045bbfc62c37e99b7d7c6faca8"
+hash = "cfde765eaa7cc6d90343a6cb093ef9f515ceb1e59517cd7acf5a25eaff3d305b"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/syncmatica.pw.toml"
-hash = "daf58bcb10af29f0f5b1ea01d54e7a482d2f16ea3c5098404a516fd400851d07"
+hash = "f00c5e40c24e011bee9bf460e04f89828e4be799b9606bf98e759c80c00a971f"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "4d4d38143640d77ac9ccdea3625e52fdc03a988effd6e4a75eca7e9e167c4dec"
+hash = "52b7ebd550a473fb92232241e322b16d595a0735e7eccc1155515f03261d0c7c"
 metafile = true
 
 [[files]]

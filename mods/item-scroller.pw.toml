@@ -1,7 +1,7 @@
 name = "item-scroller"
-filename = "itemscroller-fabric-1.21.4-0.26.0-sakura.3.jar"
+filename = "itemscroller-fabric-1.21.4-0.26.0-sakura.4.jar"
 
 [download]
-url = "https://github.com/sakura-ryoko/itemscroller/releases/download/1.21.4-0.26.0-sakura.3/itemscroller-fabric-1.21.4-0.26.0-sakura.3.jar"
+url = "https://github.com/sakura-ryoko/itemscroller/releases/download/1.21.4-0.26.0-sakura.4/itemscroller-fabric-1.21.4-0.26.0-sakura.4.jar"
 hash-format = "sha256"
-hash = "9e5f5cf073e5854e682722d6ab4b66983d5ae5ae708ef5d47bae3a2d6116f142"
+hash = "0a313d3e0f282c14f4488adfa8024894a95e95c019eab661b8eac4a57f2ade63"
