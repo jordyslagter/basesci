@@ -70,11 +70,16 @@ hash = "9424ab9737c356fb48684b57b43137eef7c499fc04ab9d1251478a78bb18505d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "f325c797b25bb8fe7167286cfddb5fe6c6c97ede90bd712f379706d7e7d9b03f"
+hash = "c720ba27bb9b47c29c97b5fe09ceea76ffc109fd13d1185124acc71d8846bdc8"
 
 [[files]]
 file = "mods/axiom.pw.toml"
 hash = "7f38452fc5e26142b567897a125400a38a22dfcf3d1916ba09b50666147b510d"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "914137bcf73ac2979d5e4f35d6c8c9c24990f40087dca5a4181f12debe3ece0a"
 metafile = true
 
 [[files]]
@@ -159,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "49f9c57a66021310a31dd3edd0792c5de7f4a78f785b000c36750c9d102d4648"
+hash = "83e03e7595c1b32114530aa9c1ed9052f2721ab39f3efe9575326b5579e7ef89"
 metafile = true
 
 [[files]]
@@ -293,6 +298,11 @@ hash = "026edfc4b101d576812f91ed7777481aeec3f6acaf99ecc46247af9ef0b5506e"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "0eef10784a6d8678abe081ee8dc65198c60589eedfd0cc02aac8765c44f7d55e"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "5ccb85456b866d5ad30bcc793773af6dc9d94cb188418147a562da820a6941ee"
 metafile = true
@@ -364,17 +374,17 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "248b7fcb9e81f5f67053e74e33eb01555284577e648aca1df47ad49cb0792e28"
+hash = "61d2a106f2e2f0a59b13841397d19c481ea4747c2db9d233fb211be79bb2c6cf"
 metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "337f098781332a5a4774a75aefabe1693be544b71054f65ef5cc5073e0a296c2"
+hash = "18f7cac3949e37fae1abcf636c4abeb442c2feaa3ed2ccb232d4ff5b99933792"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "92e9b0a2761bcb614ca72150e7d41d1afb066b3efafd7268de804e0d1775ba98"
+hash = "b2038a91bf523930dd54e621f15f6b7971105b9bcc41d9fb4b9bbe8b3b0e6757"
 metafile = true
 
 [[files]]
@@ -385,6 +395,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+hash = "265ebd55a7829e33c81bd6762ff4440511c757889d95e0b227ba9598a4fe6136"
 metafile = true
 
 [[files]]
@@ -399,5 +414,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "302defb5c766d4d99ba7c1e1eb12839aa3e47b6605a9a36a279c440b2c98b141"
+hash = "fe2a8b5fdfa5a84a3c5b62ab88527ca9cea73c409374e5ac1603a7b6d9333227"
 metafile = true
