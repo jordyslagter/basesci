@@ -1,7 +1,13 @@
-name = "servux"
-filename = "servux-fabric-1.21.4-0.5.0-sakura.3.jar"
+name = "Servux"
+filename = "servux-fabric-1.21.4-0.5.0.jar"
+side = "both"
 
 [download]
-url = "https://github.com/sakura-ryoko/servux/releases/download/1.21.4-0.5.0-sakura.3/servux-fabric-1.21.4-0.5.0-sakura.3.jar"
-hash-format = "sha256"
-hash = "dd959894a51ce167094dc925a23a2d3bc2ee82a628a1b0769808f94c8e24047b"
+url = "https://cdn.modrinth.com/data/zQhsx8KF/versions/FVDnaJo4/servux-fabric-1.21.4-0.5.0.jar"
+hash-format = "sha1"
+hash = "bcd9ed7743e9009f4b0ab23ac0d1c150b1afd273"
+
+[update]
+[update.modrinth]
+mod-id = "zQhsx8KF"
+version = "FVDnaJo4"

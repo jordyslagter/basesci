@@ -29,6 +29,10 @@ file = "config/yosbr/config/iris.properties"
 hash = "bc5fc249179fa926c9395c63626120f52f55e5c25638712a3e4008a3737e9013"
 
 [[files]]
+file = "config/yosbr/config/librgetter.json"
+hash = "dab70d4d32b21f1006dddbbab0385aa3dd5c11276b027e84b4e55ac2fc2f4e4e"
+
+[[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "98769d10a530e301a95ad1da8a710c8671e93d8be7b921cc614da63f64523fdb"
 
@@ -70,7 +74,7 @@ hash = "9424ab9737c356fb48684b57b43137eef7c499fc04ab9d1251478a78bb18505d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c720ba27bb9b47c29c97b5fe09ceea76ffc109fd13d1185124acc71d8846bdc8"
+hash = "76229a6337b9c2761892cb20e3565a1025dca349442af196d4b171e4452e64ee"
 
 [[files]]
 file = "mods/axiom.pw.toml"
@@ -164,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "83e03e7595c1b32114530aa9c1ed9052f2721ab39f3efe9575326b5579e7ef89"
+hash = "6184fab619e2400c54f8fadbb81033eb7dea9a4934a2fc870c609514e475a7ac"
 metafile = true
 
 [[files]]
@@ -199,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.pw.toml"
-hash = "e58e87e60ab8ab69ebc1bd64a0f335fe837f434f09602da8661f0482eaafc621"
+hash = "21096423fa3fd85998adb691344a775bfd1faadb99881470e72b0e2e429534fd"
 metafile = true
 
 [[files]]
@@ -239,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "cec2dfb2dfa33a86de6dd4a6808650c518f541f7279c4495e627c919f8fc21ab"
+hash = "3c5cd4d829c8e9292450825c726693e09257fc1e917797449fdbeb58c903878b"
 metafile = true
 
 [[files]]
@@ -254,12 +258,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "28154b3ed0027a392d8b250cb0e6cdea1e54a4c9f219210144852092554211d5"
+hash = "75230b405158efc4f7f6821bdbd10db97fd305a4314d2bff4e669772f66782f6"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "c6477cf10ecce8d35601d180186a34dca6b88933dfa4660896d41a7f05288658"
+hash = "0f26563dacd49497c46cba936c44081a5f9d134c3ba1cdcbac8dda46a6360392"
 metafile = true
 
 [[files]]
@@ -279,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "7246efa2739a04e4f72461293c6b7daa1d71bd96504aa25e98248388e4741edb"
+hash = "fb6f5fa6db4784ce8d6b976b36ba9c87b3967196e0ff21f4fe37cf583476dda3"
 metafile = true
 
 [[files]]
@@ -314,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "361ecbeb1043cbd7202cf75f6d58603e0f21139428dd566a63321c01b98c2d2b"
+hash = "c9f6c0dd507f1851e6bc100adedd1dca75c3dc1fdee734763ebac76d6d57c2b6"
 metafile = true
 
 [[files]]
@@ -334,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "80601f5cf443b031cbba9526831aad1940e7a8a23cfac4aff3a90c910dbfdda3"
+hash = "80f7be416a3a4e995e8aa4b576cbde943463ec8b81cf1edcc6eada31524afb06"
 metafile = true
 
 [[files]]
@@ -349,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "cfde765eaa7cc6d90343a6cb093ef9f515ceb1e59517cd7acf5a25eaff3d305b"
+hash = "412193be248fc8a1898798abc46733361bbd6a7d79865531ee1ce7d3904d1b29"
 metafile = true
 
 [[files]]
@@ -369,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "52b7ebd550a473fb92232241e322b16d595a0735e7eccc1155515f03261d0c7c"
+hash = "d1dae409cb516bc1d6f0d901d8cb4c0f2291b6327e4aa04b2f19793b3abf5682"
 metafile = true
 
 [[files]]

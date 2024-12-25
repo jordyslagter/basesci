@@ -1,7 +1,13 @@
-name = "malilib"
-filename = "malilib-fabric-1.21.4-0.23.0-sakura.5.jar"
+name = "MaLiLib"
+filename = "malilib-fabric-1.21.4-0.23.0.jar"
+side = "both"
 
 [download]
-url = "https://github.com/sakura-ryoko/malilib/releases/download/1.21.4-0.23.0-sakura.5/malilib-fabric-1.21.4-0.23.0-sakura.5.jar"
-hash-format = "sha256"
-hash = "df5ebcb7692608bd040684a5e69beadb1127f602ef5e7a1084bcc1d7b135dd13"
+url = "https://cdn.modrinth.com/data/GcWjdA9I/versions/KsUV4RUr/malilib-fabric-1.21.4-0.23.0.jar"
+hash-format = "sha1"
+hash = "56316d09e4cd186c38e634cd41926b7d5b1dbdc4"
+
+[update]
+[update.modrinth]
+mod-id = "GcWjdA9I"
+version = "KsUV4RUr"
