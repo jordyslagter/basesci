@@ -82,6 +82,11 @@ hash = "7f38452fc5e26142b567897a125400a38a22dfcf3d1916ba09b50666147b510d"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "5be9efdc4aa6ed914949b313af08ed6b9946b3fddde2a35602a60336aaf4dc40"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "914137bcf73ac2979d5e4f35d6c8c9c24990f40087dca5a4181f12debe3ece0a"
 metafile = true
@@ -198,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e10baf8868ec7d5d0188336f9bb36902f8e81b6e91dc82259041bbab70b30e96"
+hash = "08601df10fb926bbb8a0fe686b8c4d5f9019e06d39715dcc025d99e1ad2cee40"
 metafile = true
 
 [[files]]
@@ -263,12 +268,17 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "0f26563dacd49497c46cba936c44081a5f9d134c3ba1cdcbac8dda46a6360392"
+hash = "7da630253904af2d00d1a972cbc2b04ca25b2c46bdb734209687c3fc2221ecf3"
 metafile = true
 
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "7b481e391078a45540a9c3fc4d082197a333e3d7938f864682f14c8c053c11fa"
 metafile = true
 
 [[files]]
@@ -303,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "0eef10784a6d8678abe081ee8dc65198c60589eedfd0cc02aac8765c44f7d55e"
+hash = "90344506b6d252d79e29a5c89cfbd1daf5c868669c6aa4394eeb2d2465473bcd"
 metafile = true
 
 [[files]]
@@ -418,5 +428,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "fe2a8b5fdfa5a84a3c5b62ab88527ca9cea73c409374e5ac1603a7b6d9333227"
+hash = "0d49d663996bf7b473ff5236a291683e4a11a256677928619158e56ac7d135c1"
 metafile = true
