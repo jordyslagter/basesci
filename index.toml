@@ -192,6 +192,11 @@ hash = "ada74e6d4149631f2b442d2f0061b0179feef576bbf4b5cd28bbcc7de1380b7e"
 metafile = true
 
 [[files]]
+file = "mods/g4mespeed.pw.toml"
+hash = "2d87907e449b65935140181424d9cf07a88db6c81738ccb743f245308e56247f"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "3c63c0bb4c0d0da3e2c3a0992c3d1f12d17cb1c3c953b56ab5ca29403df10613"
 metafile = true
