@@ -1,13 +1,13 @@
 name = "Litematica"
-filename = "litematica-fabric-1.21.4-0.21.0.jar"
+filename = "litematica-fabric-1.21.4-0.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/bEpr0Arc/versions/uH2rrDmL/litematica-fabric-1.21.4-0.21.0.jar"
+url = "https://cdn.modrinth.com/data/bEpr0Arc/versions/6BEqwWz8/litematica-fabric-1.21.4-0.21.1.jar"
 hash-format = "sha1"
-hash = "1a1eb73607b193bcf238f60faeff9db67ed646ed"
+hash = "121dd1bab08759d8cdededbcd2a0773eaeaaac27"
 
 [update]
 [update.modrinth]
 mod-id = "bEpr0Arc"
-version = "uH2rrDmL"
+version = "6BEqwWz8"
