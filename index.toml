@@ -137,6 +137,11 @@ hash = "eaf59fb6dca4e3dfaa2227950ab39d39b92caf59f01416e89de662dc3ac6902c"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "11d3ae4d547191988efc278f995021d7e70d95ddc7ee3cdcce7ad5a9e0b00ce9"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "71967a5cb410525b8e7ee0b59f5d6919733a802fcde52fd9d3dd0d75d53ea0a6"
 metafile = true
