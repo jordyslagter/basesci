@@ -197,6 +197,11 @@ hash = "ada74e6d4149631f2b442d2f0061b0179feef576bbf4b5cd28bbcc7de1380b7e"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "00d9b198ef82ecc127e22b10cb02798bf4170d8284a2f8b80a96d8275a490b35"
+metafile = true
+
+[[files]]
 file = "mods/g4mespeed.pw.toml"
 hash = "2d87907e449b65935140181424d9cf07a88db6c81738ccb743f245308e56247f"
 metafile = true
@@ -354,6 +359,11 @@ metafile = true
 [[files]]
 file = "mods/respackopts.pw.toml"
 hash = "4b5aa995dc458b9cc26197801723d83ce3c6ae718d95949a2d926917c030a5ac"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "9e5c5a2b285406251106a3b0223e05a8dba67fee399a93e4733e741899614fcf"
 metafile = true
 
 [[files]]
