@@ -312,6 +312,11 @@ hash = "fb6f5fa6db4784ce8d6b976b36ba9c87b3967196e0ff21f4fe37cf583476dda3"
 metafile = true
 
 [[files]]
+file = "mods/next-fabric-bedrock-miner.pw.toml"
+hash = "d5582d57070c46613b1bbb8309e5d4fec02facd9d65fb4e10d56b6817edaebcb"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "6136fc60427d37f49b7b58a030d67bbd68fd60a0eaf459f4f9fe0058858f07d4"
 metafile = true
