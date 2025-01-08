@@ -74,7 +74,7 @@ hash = "9424ab9737c356fb48684b57b43137eef7c499fc04ab9d1251478a78bb18505d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "76229a6337b9c2761892cb20e3565a1025dca349442af196d4b171e4452e64ee"
+hash = "2c926f398e92c9da434069c4b4613da582f4dc9473aa3a93bf8631f4bfe35a67"
 
 [[files]]
 file = "mods/axiom.pw.toml"
@@ -94,6 +94,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "437637ca80c4eeca79753714684a5302349573dc0674d6fe244579a1cee87d9e"
+metafile = true
+
+[[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "51615e3fdd2e13ccfea84c6dfaff32aa6b87d084e62d0a783f68828186947433"
 metafile = true
 
 [[files]]
@@ -432,6 +437,11 @@ hash = "6fabede3878419f7300211a1a2f453ad13484cf35b5c213b621fa712d9ab528a"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "7025706e3c3bb9191adac64a3eada81bc31711be08b4bdc4324fc05789a2076a"
+metafile = true
+
+[[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
@@ -439,11 +449,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "265ebd55a7829e33c81bd6762ff4440511c757889d95e0b227ba9598a4fe6136"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "f71396b186ce5ecec39923831d890c2e70edc4dc2c65a6c07d70a77db9e77aa1"
 metafile = true
 
 [[files]]
