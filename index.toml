@@ -74,7 +74,7 @@ hash = "9424ab9737c356fb48684b57b43137eef7c499fc04ab9d1251478a78bb18505d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "2c926f398e92c9da434069c4b4613da582f4dc9473aa3a93bf8631f4bfe35a67"
+hash = "ce485c81f35636fb54ea06455e64b7be37052d29248c38848d6b48c9798996eb"
 
 [[files]]
 file = "mods/axiom.pw.toml"
@@ -453,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/redstone-tweaks.pw.toml"
-hash = "e281253acaa2c3f57f6428d3e7fd85ded4683ad7323360718c7ef8e78dea4bf3"
+hash = "7f8327e73aef9fc751b1e721e8092d479af5c08dbf8199e54ea7ec4ba4f78882"
 metafile = true
 
 [[files]]
