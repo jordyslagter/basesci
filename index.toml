@@ -82,11 +82,6 @@ hash = "7f38452fc5e26142b567897a125400a38a22dfcf3d1916ba09b50666147b510d"
 metafile = true
 
 [[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "5be9efdc4aa6ed914949b313af08ed6b9946b3fddde2a35602a60336aaf4dc40"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "914137bcf73ac2979d5e4f35d6c8c9c24990f40087dca5a4181f12debe3ece0a"
 metafile = true
@@ -98,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "51615e3fdd2e13ccfea84c6dfaff32aa6b87d084e62d0a783f68828186947433"
+hash = "c18622c8b5415137e73f6481a7f6c06adf915ccd018298c7b12fd630c4f5192d"
 metafile = true
 
 [[files]]
@@ -123,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "e55a4484b997fff8abfdb6b6818e9312cc72450c1f960c2a1c4eaa6cf9697cb3"
+hash = "d459392f3091f7d5f01569c626fa7abb808119a0367a89508ffa24648965f7e1"
 metafile = true
 
 [[files]]
@@ -183,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4207e810788d96d01a5768971e4c10236ca877e0391b677ca4a94a6b03fdb4a2"
+hash = "3df75385043a318f2d5cbf7c2574e3d02364cd9197c0f56d68b3d0bac68c1e4a"
 metafile = true
 
 [[files]]
@@ -218,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "4a6f44244e26d5e257d1c4fa9c8e0bdd0aa871bcf883cd2b66fb6cb0b05ca134"
+hash = "aeb559d37e6b987c9e78f143af5dac2c77d732c7a562ccc11f4109e1cd654ed6"
 metafile = true
 
 [[files]]
@@ -338,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "91fb36dd041905a5c6e0766a38e45015e2fe5e7b46bbd71bc44fcc999b7560f8"
+hash = "406482593415051ba56fa109cf0d56a0928c621df96bf4a52e8e59e0a237e0bc"
 metafile = true
 
 [[files]]
@@ -458,5 +453,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "a1b139e8099ddf4fd890271308ce61ee7d9eb5c282bf3dde4e180ed459a180b3"
+hash = "6f54121d5ba59b94f03c597eb01151bf489a26c6b44f2d8252bb53b7db73fc35"
 metafile = true
