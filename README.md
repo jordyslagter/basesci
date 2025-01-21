@@ -51,7 +51,7 @@ mods.
 - CommandKeys
 - LibrGetter
 - NBT Autocomplete
-- ReplayMod
+- Flashback
 - Peek
 - Spark
 - WorldEdit
