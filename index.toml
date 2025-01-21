@@ -49,10 +49,6 @@ file = "config/yosbr/config/redstone_multimeter/options.txt"
 hash = "c65678f179afaf199137d92a850e6130e8051675f0bcc81218a4fb3a203007a8"
 
 [[files]]
-file = "config/yosbr/config/replaymod.json"
-hash = "b0de7bcbab3c360450369bba7d647562c7610c9f11e9fb44bbd1e3fdb8460d08"
-
-[[files]]
 file = "config/yosbr/config/rrls.toml"
 hash = "0d5ec9130dd8f8ec24ef6ff740aa48ad286749a7e4746e95397e4b70783b7f2c"
 
@@ -74,7 +70,7 @@ hash = "9424ab9737c356fb48684b57b43137eef7c499fc04ab9d1251478a78bb18505d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "ce485c81f35636fb54ea06455e64b7be37052d29248c38848d6b48c9798996eb"
+hash = "73947dd8c0e060ecf3f715a38daebb32a75c8ae2ee7d9035a48471d5f9993716"
 
 [[files]]
 file = "mods/axiom.pw.toml"
