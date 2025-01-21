@@ -188,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "12fd22b00b92a0a5a863cb570e914e00140722df844bb214db66d6448d4bcd4e"
+hash = "63221fcb4a98dc7f0b415ac2e7db84837b67d0772fbac953abf5f51e606143d8"
 metafile = true
 
 [[files]]
@@ -213,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "aeb559d37e6b987c9e78f143af5dac2c77d732c7a562ccc11f4109e1cd654ed6"
+hash = "e73ac2eabce368496ed081fbf6e10f79cba115220fe061c7e9213dc850275366"
 metafile = true
 
 [[files]]
@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "52b25d589bdb56a6b73c086432543f35a8e004cfbefcfb775fb2fd9c74f37962"
+hash = "ba1f90fb84c3d1ab93c85f24bd8097673f2128f1f50d8184abb979643bd414a2"
 metafile = true
 
 [[files]]
@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "406482593415051ba56fa109cf0d56a0928c621df96bf4a52e8e59e0a237e0bc"
+hash = "087cf8bebc1203a7fd08554241736f6d2cbe93dd380e3ce245ec73aa8b8fe1d4"
 metafile = true
 
 [[files]]
@@ -348,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "c9f6c0dd507f1851e6bc100adedd1dca75c3dc1fdee734763ebac76d6d57c2b6"
+hash = "2057649daa10fcdc620dfd60eb0caee54b9ff80c80979564873b422fa94e2ced"
 metafile = true
 
 [[files]]
@@ -418,7 +418,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "82c00760399eeed7ae0cbb8ac3d6051bd259375a618804a236e423b0cc078a33"
+hash = "071ed62b17139959baf508c3a2e74300c4e359720c3032c7697436160a7b7dec"
 metafile = true
 
 [[files]]
@@ -443,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "265ebd55a7829e33c81bd6762ff4440511c757889d95e0b227ba9598a4fe6136"
+hash = "ebb33a73c8418371b1021f23a02e6e1bc7d1031cea12cc3bf778bf9da63adb33"
 metafile = true
 
 [[files]]
@@ -453,5 +453,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "6f54121d5ba59b94f03c597eb01151bf489a26c6b44f2d8252bb53b7db73fc35"
+hash = "6effbff84316b98c66af890a49632f87f4a54d67c846ddc4fc9c28442c7f2395"
 metafile = true
