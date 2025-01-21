@@ -157,6 +157,11 @@ hash = "6d4178a37dbe220eb455e103818fc642a7e6099a2d24c8f6a0f7e4c5201cf472"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "c8470b279372c8b2b220fea0292b2dd7efe17a0fa62a10b3c03aae0fbf29169a"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "3810f56064a5a6bd20d2bfd67a24f762f0643323969926f84cc1773c32b784a4"
 metafile = true
