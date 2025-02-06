@@ -213,6 +213,11 @@ hash = "2d87907e449b65935140181424d9cf07a88db6c81738ccb743f245308e56247f"
 metafile = true
 
 [[files]]
+file = "mods/gca.pw.toml"
+hash = "d107f11763f194622bc5911b056037f69a5550b1747864fb965da79d51f59325"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "485f230a4d6ce28bc67e8b6a475460016617ca2889e477274d762899d855485e"
 metafile = true
