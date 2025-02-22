@@ -73,6 +73,11 @@ file = "config/yosbr/options.txt"
 hash = "eb95d9f114bba51404fc1e1fb08dd04190cc50d93d6015e74eb3f35b818bd137"
 
 [[files]]
+file = "mods/advanced-xray-fabric-edition.pw.toml"
+hash = "fd7719e4fff6be719cb8c4198e6e00fcafe5def61b850eb84962017e627f3e53"
+metafile = true
+
+[[files]]
 file = "mods/axiom.pw.toml"
 hash = "cc49948aacd94bd61af802d12e793517c9640a76c6a3c40b711d96783037118f"
 metafile = true
