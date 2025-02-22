@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "f42ac5b765061a9246f62bb63f682303c707c02addd50278cc078395c64e0dab"
+hash = "7c629d5e27e749a66e0976669f875bfede9a6af8b8394d64dcb78e96e290c803"
 metafile = true
 
 [[files]]
@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9cf638b98dabe65e743f31423b9cf6b95f9f9f111472af8094317979f4e766db"
+hash = "3a6d8f229fc7f1743ce583db236fdcfb3cb1a73b2b44a7a8f82360b98ac73723"
 metafile = true
 
 [[files]]
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/flashback.pw.toml"
-hash = "fb0b9d44199f7c1616cbd092a793b37d0998942c349bc614748f9b8a3277f7bc"
+hash = "aafa2f2607f0cc02d3cfacab0f0812831ba0d70afb0f579287ba62476310cc33"
 metafile = true
 
 [[files]]
@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "08601df10fb926bbb8a0fe686b8c4d5f9019e06d39715dcc025d99e1ad2cee40"
+hash = "980c97c5afa0ae3d4f0683b1d13c0abe1c00c28f8438c0c62388fc2ee61ab2e5"
 metafile = true
 
 [[files]]
@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ba1f90fb84c3d1ab93c85f24bd8097673f2128f1f50d8184abb979643bd414a2"
+hash = "9e5d684ee547dd24c8e4b1ab0105fc632a98b0697ab5aabd8fe8fd581ff47535"
 metafile = true
 
 [[files]]
@@ -314,12 +314,12 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "0237f48e59dc05dbb3839e36f0efe4b16865bf46b958ac4431a7fdcf4eb5bbbf"
+hash = "2d96ccfede6b8617151d775d5453247ec4ca324be9ab853805efb25ee9c74326"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "0b867defc61534b59cfccd1e3b486b19fb0c8da184473a7157346380fd91ea4c"
+hash = "818f3c515f6d694160595b46af1a934b4565db9ad82eebc4154c1b1457bf5ae6"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "c3f5e79e17c59e58b3708d28a93310c81ae4b3ee72590e74c26b6c8ae3999399"
+hash = "cd70d895e19347cf7e92dd4ea4f03ed4702601e8a8e954fec06e33dda9b0f7d9"
 metafile = true
 
 [[files]]
@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "7841c65d1d8b3c7997ccd7103d889c15caba68a794938df49fb90126ed6eeb75"
+hash = "102b260778591960d1b206c8897a3ace4c2ccdfbc9623e506b2d92052227c135"
 metafile = true
 
 [[files]]
@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "9e5c5a2b285406251106a3b0223e05a8dba67fee399a93e4733e741899614fcf"
+hash = "13b7c5b47c11368428b15e500f134aa1511ea9e1ca5e26bfd35d44e9e265266c"
 metafile = true
 
 [[files]]
@@ -399,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "7a4645a22cc15ddebdba6686cbf96c860905baff9f6ca1f7b2da395d843fa002"
+hash = "3a4eea0bc78b53366ab8fd125f97456f67c2af40e44c0e4d55d0b322edbdbec4"
 metafile = true
 
 [[files]]
@@ -429,17 +429,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "46f3d08d847d72ece3f89faef9bc8be3c556632f1018dfdf40a0296b8a64a21e"
+hash = "a7cb129e294286bae8837818f2e833bd402a4eb5b0cf07d0372a9b7834a3050d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "85f7d84bdb74c6eb876c4f3352c935f885f7ba7bc2c3195da0cfd2aa2d810a48"
+hash = "92929814ff91fb72fc9cc518d8f4a4d17c10f14de815bd696cd2dccf67427cd3"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "d14783859ebe81cb9ace939a58775f874011a234cc5006df178b2ec77ef0c821"
+hash = "c275b656bc7198d1b87d0b0293a7605ffd80a9eefdf3919a724e7e2ad7411aa0"
 metafile = true
 
 [[files]]
@@ -464,5 +464,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "5fa940a6b5ead04d0559d6dd29a1f862fbfe62b4641234fd1827f21156374447"
+hash = "84b9625619defbaae2ff7104afc8d6833a857fc2e41b1d2c5aa6913eb7c355fc"
 metafile = true
