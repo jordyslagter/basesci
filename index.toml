@@ -78,6 +78,11 @@ hash = "fd7719e4fff6be719cb8c4198e6e00fcafe5def61b850eb84962017e627f3e53"
 metafile = true
 
 [[files]]
+file = "mods/armor-poser.pw.toml"
+hash = "8744083101d64e4a0320454df28f47ac7c6e00c9da0ca81af308d94ffaa37f41"
+metafile = true
+
+[[files]]
 file = "mods/axiom.pw.toml"
 hash = "cc49948aacd94bd61af802d12e793517c9640a76c6a3c40b711d96783037118f"
 metafile = true
