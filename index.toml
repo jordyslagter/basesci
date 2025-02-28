@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "c18622c8b5415137e73f6481a7f6c06adf915ccd018298c7b12fd630c4f5192d"
+hash = "203752dc98ab78998b838f2f283e49686b58760e30c1211cafd47ea792681b88"
 metafile = true
 
 [[files]]
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "818f3c515f6d694160595b46af1a934b4565db9ad82eebc4154c1b1457bf5ae6"
+hash = "5f60f9efe07d64977af98ec7a603ce8952e03763eadf65f43254d39fdee9cec1"
 metafile = true
 
 [[files]]
@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "ce2bc1974c20510a3ef099c935ad03fbee396cca1241ab673b180c393ccd2163"
+hash = "87dfe81097436c6979c21a29b5b5f3e41fa1c8f25a09b206f7c024eeab9756ef"
 metafile = true
 
 [[files]]
@@ -399,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "3a4eea0bc78b53366ab8fd125f97456f67c2af40e44c0e4d55d0b322edbdbec4"
+hash = "5b910794397ae375e9ef4a52c6a95fb1879f232a0f9258b9b5fc46a8c7b6015b"
 metafile = true
 
 [[files]]
@@ -414,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "05830073426e213cf0d669b654fce071876d774a3b939a37b55b422777c91b9d"
+hash = "f37a04e542107ce4d5a268cd078e37b044dab976a9115b11997ff7f70ccc1fc3"
 metafile = true
 
 [[files]]
