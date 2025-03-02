@@ -70,7 +70,7 @@ hash = "9424ab9737c356fb48684b57b43137eef7c499fc04ab9d1251478a78bb18505d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "ad4d44617b511f3533a11e51146e06e6628bbb8831adf3cfa55691e6e18bddec"
+hash = "4526d74ee6d25a4a107241a04d64e5953b4a763d65f0854441f5a86b5c910540"
 
 [[files]]
 file = "mods/advanced-xray-fabric-edition.pw.toml"
@@ -130,6 +130,11 @@ metafile = true
 [[files]]
 file = "mods/carpet.pw.toml"
 hash = "3fe400a4dd4a59a979d8719a3186b8ff7bd3ea0b80accb354bb7ac5875d7136c"
+metafile = true
+
+[[files]]
+file = "mods/chunk-debug.pw.toml"
+hash = "79a51d283828cf2c60aea7762ed0100a4d8cc86cab05b67648f353b02d5a34e7"
 metafile = true
 
 [[files]]
