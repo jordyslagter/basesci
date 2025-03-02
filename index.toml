@@ -188,6 +188,11 @@ hash = "465f230d5f00064c3c9d6ce51cb2391ce49d210fcfd8ae177aa0a28e56086389"
 metafile = true
 
 [[files]]
+file = "mods/essentialaddons.pw.toml"
+hash = "ad574c6a5d7790df2bdc36f5906a77dce21d6b356a53cb1f90b5f6a7a43de031"
+metafile = true
+
+[[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
 hash = "b88d5927053bd68074e0b00f942a54cfe93aa86869eb6aabb3f8f7e9644874dd"
 metafile = true
