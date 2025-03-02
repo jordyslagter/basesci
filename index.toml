@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "7c629d5e27e749a66e0976669f875bfede9a6af8b8394d64dcb78e96e290c803"
+hash = "4da2ea72ffad3665d76ce58159f8a82b4123b8c55ba02196d0de79462c4aa365"
 metafile = true
 
 [[files]]
@@ -369,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/redstone-multimeter.pw.toml"
-hash = "61c3a101a19bdb4d9a425a797683aef8cada18a92acbeee4e96bf278b5a97fb4"
+hash = "0c51fb56dcb24ca2a12188a6c02424169d9dccacd15cfd35333a0a22e4c4cc1b"
 metafile = true
 
 [[files]]
