@@ -1,13 +1,7 @@
-name = "Item Scroller"
-filename = "itemscroller-fabric-1.21.4-0.26.0.jar"
-side = "client"
+name = "item-scroller"
+filename = "itemscroller-fabric-1.21.5-0.27.0-sakura.5.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/JygyCSA4/versions/awl8cjYT/itemscroller-fabric-1.21.4-0.26.0.jar"
-hash-format = "sha1"
-hash = "0454df084fc6d708fb0528b3f9352e98fafae6b0"
-
-[update]
-[update.modrinth]
-mod-id = "JygyCSA4"
-version = "awl8cjYT"
+url = "https://github.com/sakura-ryoko/itemscroller/releases/download/1.21.5-0.27.0-sakura.5/itemscroller-fabric-1.21.5-0.27.0-sakura.5.jar"
+hash-format = "sha256"
+hash = "f66d0d871cca5365d6e487e6021f72272bf2824a1823bc6db9f29f36c7504acb"

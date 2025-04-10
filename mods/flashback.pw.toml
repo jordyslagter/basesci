@@ -1,13 +1,13 @@
 name = "Flashback"
-filename = "Flashback-0.18.0-for-MC1.21.4.jar"
+filename = "Flashback-0.31.1-for-MC1.21.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4das1Fjq/versions/GVqVr8gM/Flashback-0.18.0-for-MC1.21.4.jar"
+url = "https://cdn.modrinth.com/data/4das1Fjq/versions/7amKKVQL/Flashback-0.31.1-for-MC1.21.5.jar"
 hash-format = "sha1"
-hash = "4770bb1efd765894e22a33ec508282aced95ab5b"
+hash = "ac4ea1f0c511be3ba5d5621158852633a9618639"
 
 [update]
 [update.modrinth]
 mod-id = "4das1Fjq"
-version = "GVqVr8gM"
+version = "7amKKVQL"
