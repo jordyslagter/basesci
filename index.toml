@@ -83,6 +83,11 @@ hash = "939fe43e53bb0c85834ce7b0b8ff1d6a7bb5358835a3de535fe97a50f91282f1"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "5be9efdc4aa6ed914949b313af08ed6b9946b3fddde2a35602a60336aaf4dc40"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "914137bcf73ac2979d5e4f35d6c8c9c24990f40087dca5a4181f12debe3ece0a"
 metafile = true
@@ -98,8 +103,8 @@ hash = "7a73c9e9f436d0233c28de953a45571bceee73dcbeaaa2e87eb3617dcf9a95f2"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "7e816a0322edf7c3c8a1aa17e63f3f1b050f49cc840896f8bc97a9c3d3393d31"
+file = "mods/c2me-fabric.pw.toml"
+hash = "3d5995aad602ccd181a8cca5f9dcddb549290db423dcaf7b040d6342e0c6a396"
 metafile = true
 
 [[files]]
@@ -140,6 +145,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "6582c187dbb80d76cc5a6681e77dd3e29ac983e486fda8876c89a7866f68397a"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "9366e9ff9a46c5302ca2a6574ef1f7cf0e56f0fca2bd25c6f2ef147929eb3fe3"
 metafile = true
 
 [[files]]
@@ -190,11 +200,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "f1da925ae791df99a453d1e135cb3c7a390c861a6ae9db299e19ffc83dfed680"
-metafile = true
-
-[[files]]
-file = "mods/flashback.pw.toml"
-hash = "31de45c614d26cda08b5afa597193f440805ea095e65bf5494107802e8b7fc06"
 metafile = true
 
 [[files]]
@@ -368,6 +373,11 @@ hash = "470372914407e71b121a3323f37e602b39658996b884db0b54c105bb9a204aff"
 metafile = true
 
 [[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "bfed1c77cb74b24711e724f220045029bef93c1a67e3531210cd373770709c8e"
+metafile = true
+
+[[files]]
 file = "mods/tweakermore.pw.toml"
 hash = "7a17ae52f038a23c60b5073dab49cac79cb19dc174ff117a9a27c9b0bfc382b9"
 metafile = true
@@ -375,6 +385,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "e8313930ef326c9f906052160b4ea141ece7875ae797c5ff5a65f709e740d7f1"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "d67883a10b4f99b36a949532944210b4598c17cf138d8c2c48018ef36119b870"
 metafile = true
 
 [[files]]
