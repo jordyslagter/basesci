@@ -70,7 +70,7 @@ hash = "9424ab9737c356fb48684b57b43137eef7c499fc04ab9d1251478a78bb18505d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "25421d5528aececce796dc4c849ab285f844c4772948d035801fec6a63719fec"
+hash = "6d443c5d5fe79b28f1edcdcde557e4538da914842318e8f84945e8d19313671b"
 
 [[files]]
 file = "mods/armor-poser.pw.toml"
@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "765c0d25ae0e03e8489acf65a68d4ee60cb1cce3d2f533476f363088d6ce438f"
+hash = "64e2ce75c6a4600c19fc0e9d74e67ff1e2f918152977205e97d2f8bf499ed61b"
 metafile = true
 
 [[files]]
@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "78411f2227f06fc916f8f725638f4e7a3e3a277c8e3b893bccc03c003f605c5c"
+hash = "6a519f6756788faa2c1e904a2b2c28cb8228927c23eea6c223da9a7272721317"
 metafile = true
 
 [[files]]
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "755a9413a8336d4b135d940dc9af233b5c5bc76a21aefc1483cd6005a10bd89a"
+hash = "8dcc3a4cb056e4859778f303ef2c07f35cea73dcd528a0c36105392ac274c503"
 metafile = true
 
 [[files]]
@@ -239,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "3d28d8d41cb67647fee1f6b60af5ffdf189fecd95e7cd33b5d06dbb8f2d1d0a4"
+hash = "7e60be91ab343cab32c1c7c6da01a2c010ab12c02534f07ec8754fc84168a4a5"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "6c235cde0b26a79c8065fe93cebd47d0e70932aab09494cab2978f56b23c4561"
+hash = "7411b27352542930ab2d8b7f2cf22c9a6a01d2612182105515de6185e65e6932"
 metafile = true
 
 [[files]]
@@ -404,5 +404,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "83f7048a9a987f3399befebf5156c646dc5af89234991585935c544806429243"
+hash = "f34d612c551b530a80b29eb5445ca045f8ed0fefc4d6ecfd31d674608c3beff2"
 metafile = true
