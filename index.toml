@@ -73,6 +73,11 @@ file = "config/yosbr/options.txt"
 hash = "6d443c5d5fe79b28f1edcdcde557e4538da914842318e8f84945e8d19313671b"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "e475f1f0d57e5e3b7ca929fa324dfa5df49ab8fabf4c539e8ca1a52f36ddaa56"
+metafile = true
+
+[[files]]
 file = "mods/armor-poser.pw.toml"
 hash = "c443af669f5262ebc88f229d2ab39246c9e8b0a3685a561f374aeb179adf974a"
 metafile = true
