@@ -128,11 +128,6 @@ hash = "b341ba6158b0e2168a4d09ed6a733b976ab13667125907e595921fd77dfe73d3"
 metafile = true
 
 [[files]]
-file = "mods/chunk-debug.pw.toml"
-hash = "b1e71497a77b4310bc6705fb1eb909a4ed6a3fc8728bde55c143f28dbcdafea7"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "358105b652a698c4db5cecdab9b2eb4258ceaae7ceac9bff0ac754078f228576"
 metafile = true
