@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "3d5995aad602ccd181a8cca5f9dcddb549290db423dcaf7b040d6342e0c6a396"
+hash = "d2ee5dbb85ad816fab595290ec1a45e2842bf1ebec81ae85268bbb2f43da609c"
 metafile = true
 
 [[files]]
@@ -158,6 +158,11 @@ hash = "64e2ce75c6a4600c19fc0e9d74e67ff1e2f918152977205e97d2f8bf499ed61b"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "9708da4e5a5431a687f2659922b69faf9f9d89340b05ee0b42c3b00dd95f37d2"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "33d4278328a316c00ca48ff0de15988dba665943821809549b032bb8bb6784c9"
 metafile = true
@@ -189,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6a519f6756788faa2c1e904a2b2c28cb8228927c23eea6c223da9a7272721317"
+hash = "883b3310f0cc4c3915957eda03ccf516b042f916c1494960ee849d2c9e91908b"
 metafile = true
 
 [[files]]
@@ -234,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "526d9c13998e5361d3017ae5eccb77fb11682fea3bd325f7a57e0cb30d7d2c49"
+hash = "4f423457c5c825645bd10e3e84d4c6b5440c07a091913ccb5f3a06f983193624"
 metafile = true
 
 [[files]]
@@ -349,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "bda5542e1bb861539f9b0b054ed5c0bb6acab58db302242d8f8c3681a6ffb623"
+hash = "a425b33161fc59992101f7b385286be87abf3c848b15f6240d80ff619d0ba8c0"
 metafile = true
 
 [[files]]
@@ -398,6 +403,16 @@ hash = "b34339a7135a469901713a1563fe7ad4cf7d3181371277aea08e5303d8097717"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "59b2dd66104650f091c3aa8fc945d05acf47bbadef43876873a417f1145058b9"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "fa814ed7a18c0c526461e68a7e704d4448f825e2631f9cb263dd1d264d33483e"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "41743961fec458ea07f610bd998077eadc275d985c303e520476f80ba7fec8d5"
 metafile = true
@@ -419,5 +434,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "f34d612c551b530a80b29eb5445ca045f8ed0fefc4d6ecfd31d674608c3beff2"
+hash = "702d39041b19c93eb8acbf8361e07d1460eba28882909e276f52344c4291e150"
 metafile = true
