@@ -1,0 +1,13 @@
+name = "Flashback"
+filename = "Flashback-0.32.0-for-MC1.21.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4das1Fjq/versions/69c5G5pv/Flashback-0.32.0-for-MC1.21.5.jar"
+hash-format = "sha512"
+hash = "6e189199a269c6e30f60e7e3da515c2fbf81f32aa9e5e2f835c79d31505882315ed995253909de6ba05036c3f4d9a7c27922910c499c29a95e28879a172cf4f1"
+
+[update]
+[update.modrinth]
+mod-id = "4das1Fjq"
+version = "69c5G5pv"
