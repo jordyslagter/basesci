@@ -138,6 +138,11 @@ hash = "01961bc602b586bd7c035280228f491444250f2de73ea66ea2e7d3b20849eafb"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "278a349024e41e039f9f4a278532b56d1774cd2f7fde04f2cff298f3e085d995"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "6582c187dbb80d76cc5a6681e77dd3e29ac983e486fda8876c89a7866f68397a"
 metafile = true
@@ -213,6 +218,16 @@ hash = "05a61c39dfda17926149af52ec827f2c4259cac090e4d3b008fe169fd2d89eed"
 metafile = true
 
 [[files]]
+file = "mods/g4mespeed.pw.toml"
+hash = "22f949651fdc13f801de0c601eefcc4837146650a55198306f754101b1d397c2"
+metafile = true
+
+[[files]]
+file = "mods/gca.pw.toml"
+hash = "5c2e18559340b48cb7917874bcc3f472cd806f2134b8a6d86381e6cd246620bc"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "a159d9e2c41768b703ca5f5e1f5bc382d8a5d86f4f3c967af5d71d460796ab74"
 metafile = true
@@ -255,6 +270,11 @@ metafile = true
 [[files]]
 file = "mods/libjf.pw.toml"
 hash = "854b1d77f5e223852a35754766bb45a3a564c314a653fdfcd6bd974330a175ad"
+metafile = true
+
+[[files]]
+file = "mods/litematica-printer.pw.toml"
+hash = "040528be876ca88cfa19c4b9e70eee87be5e63a8fbc84831681058fd6b6fb90b"
 metafile = true
 
 [[files]]
@@ -390,6 +410,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "9f7b8fc38a87fcc10fdcdff9880d11f7c460ea4ee06b60b755582050b2458a55"
+metafile = true
+
+[[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "6f0bbf28bc150d4813656c15a8f5451e0d8b15616fdd6a0d79737f19674de435"
 metafile = true
 
 [[files]]
