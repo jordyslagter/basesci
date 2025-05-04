@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "5be9efdc4aa6ed914949b313af08ed6b9946b3fddde2a35602a60336aaf4dc40"
+hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
 metafile = true
 
 [[files]]
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d2ee5dbb85ad816fab595290ec1a45e2842bf1ebec81ae85268bbb2f43da609c"
+hash = "19a7e79a2992d580491aa110433df935a6d6addf280f87442843135e334715ca"
 metafile = true
 
 [[files]]
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "883b3310f0cc4c3915957eda03ccf516b042f916c1494960ee849d2c9e91908b"
+hash = "39e74c68e13599c9f8a5e00a07085988d34e3757e56be89503dd2259ebd12f5d"
 metafile = true
 
 [[files]]
@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.pw.toml"
-hash = "a129a76e0920d6986e8569336ee21a892dbc2b843dc2c87d53dc15d5efa8f0c2"
+hash = "ed4a6d6ce0ff64b4a0298fe4be0fdd8db85e5889d53c0ff487739e55f85df2ab"
 metafile = true
 
 [[files]]
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "b2225eae3e2f8ebd3a5511c2bcbe4224116df60dcf79e6a0b5df9a22ac91f0be"
+hash = "c28270c5094622e397e0c3b63a6bbea8f4728f13131dcbb57092cb8248716d54"
 metafile = true
 
 [[files]]
@@ -279,12 +279,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "193e26b8607120fe13193bc34fa4a55794fbfa26d5a4d034d26658cf122c5398"
+hash = "54b63657f1d182a870f7a0316aca77f5d05be071d99881542aa840aa1d82e955"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "14eeeb0215982c14765502d692e1612ea79376e9546354f6974ea0204455a6a6"
+hash = "72f88706e6540c9feb5e429db69eb63a1c26ead1e60a656f780f2305a45ab872"
 metafile = true
 
 [[files]]
@@ -299,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "5bcdf893f201484e0269e99476b253ebb3aa164a04eb28af94464128e9b3f0f2"
+hash = "8d250e4781a41beb98270b2f36e042415067f92081c6fcf843d7ea89a61b4cdc"
 metafile = true
 
 [[files]]
@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "7e0e069d5bbcc67fd99f4f8695ebcefe3deade7b445939135f9244a00fc0b696"
+hash = "cb527c0cb740a516c10e7c9a0ccd082d76d61697293fd7bb755db57ef269d304"
 metafile = true
 
 [[files]]
@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/syncmatica.pw.toml"
-hash = "470372914407e71b121a3323f37e602b39658996b884db0b54c105bb9a204aff"
+hash = "eaed589951c16a23b654755c8560507af94b58f26eb4c97b9434edd39d038e1b"
 metafile = true
 
 [[files]]
@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "e8313930ef326c9f906052160b4ea141ece7875ae797c5ff5a65f709e740d7f1"
+hash = "b81951c3a84a39e148433adf2c4d721a004d6ede7c103f0d3d0f44bee7e0e3ff"
 metafile = true
 
 [[files]]
@@ -399,17 +399,17 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "aa8e4940b6fd6df2a47f7ef1c0d177609c8bb026c09963179cb54b165a863012"
+hash = "9f7b8fc38a87fcc10fdcdff9880d11f7c460ea4ee06b60b755582050b2458a55"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "59b2dd66104650f091c3aa8fc945d05acf47bbadef43876873a417f1145058b9"
+hash = "c6882c758dc6cadb98d476f199cad6aaccd1664ea4bd1bcfbf94afd496815a7c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "fa814ed7a18c0c526461e68a7e704d4448f825e2631f9cb263dd1d264d33483e"
+hash = "46ab58f542323ab1bc92744d9ddd6ff0ba277a5c6250730bb88ba6ff2e101da7"
 metafile = true
 
 [[files]]
@@ -434,5 +434,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "702d39041b19c93eb8acbf8361e07d1460eba28882909e276f52344c4291e150"
+hash = "d89e131bf71f7e2f972086b1f45e39dac4aaec90fa54b75ebb54655513aa5928"
 metafile = true
