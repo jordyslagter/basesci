@@ -9,3 +9,9 @@
 .github/
 .doc/
 .vscode/
+
+# Exclude docker
+
+.dockerignore
+docker-compose.yaml
+Dockerfile

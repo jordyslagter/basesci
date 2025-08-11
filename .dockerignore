@@ -1,0 +1,8 @@
+*.md
+
+*.zip
+*.mrpack
+
+.gitattributes
+.gitignore
+LICENSE
