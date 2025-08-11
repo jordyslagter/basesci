@@ -20,57 +20,76 @@ The main goal of this pack is to keep up with the latest version of Minecraft.
 Thus when a new version releases, it may become less stable for a little while
 and may be missing some of the mods that it aims to have every version.
 
-# Mods
+# Setting up a development environment
 
-In the following collapsible segments, the mods that every version of BaseSci
-aims to have are listed. Keep in mind that depending on how new a version of
-Minecraft is at that time, a version of BaseSci might not include all of these
-mods.
+## Prerequisites
 
-<details>
-<summary>Technical Mods</summary>
+- [Go](https://go.dev/)
+- [PrismLauncher](https://www.prismlauncher.org/)
+- [OpenJDK 21](https://www.adoptium.net/temurin/releases/?os=any&arch=any&version=21)
 
-- Carpet
-- Carpet Extra
-- Carpet TIS Addition
-- Litematica
-- Litematica Printer
-- Litematica Server Paster
-- Syncmatica
-- MiniHUD
-- Tweakeroo
-- Tweakermore
-- Item Scroller
-- Inventory Profiles Next
-- G4mespeed
-- Redstone Multimeter
-- Redstone Tweaks (with ResPackOpts)
-- Axiom
-- BetterF3
-- Extreme Sound Muffler
-- CommandKeys
-- LibrGetter
-- NBT Autocomplete
-- Flashback
-- Peek
-- Spark
-- WorldEdit
-- Xaeros Minimap & Worldmap
+## Install Packwiz
 
-</details>
+```bash
+go install github.com/packwiz/packwiz@latest
+```
 
-<details>
-<summary>Misc Mods</summary>
+## Set up development instance of Minecraft
 
-- Bobby
-- Simple Voice Chat
-- Camera Utils
-- E4mc
+Open PrismLauncher and add a new instance with the _Forge_ version listed in _pack.toml_ and run the instance once.
 
-</details>
+Download and add the latest [Packwiz Development installer](https://www.github.com/packwiz/packwiz-installer-bootstrap/releases) to the minecraft/ directory of the instance, make sure it is called _packwiz-installer-bootstrap.jar_. See below for the directory structure.
 
-Aside from these, there's the optimisation mods and Optifine-replacement mods
-that are not listed here.
+```
+minecraft/
+- packwiz-installer-bootstrap.jar
+```
+
+Now go into the settings of your instance, enter the _Custom Commands_ tab. Enable _Custom Commands_ and add the following as the pre-launch command:
+
+```bash
+"$INST_JAVA" -jar $INST_MC_DIR/packwiz-installer-bootstrap.jar http://localhost:8080/pack.toml
+```
+
+Now your instance is ready to be used for development and testing!
+
+## Launch the modpack in the development instance
+
+Clone this git repository.
+
+```bash
+git clone https://github.com/SlagterJ/uitstelgedrag-kitchen.git
+```
+
+Enter the repository.
+
+```bash
+cd uitstelgedrag-kitchen
+```
+
+Run packwiz for development.
+
+```bash
+packwiz serve
+```
+
+Now you can run your development instance and it will sync with your local changes.
+
+Refer to the [packwiz tutorial](https://packwiz.infra.link/tutorials/creating/getting-started/) for adding, removing and pinning mods.
+
+# Building the project
+
+Build for release on Modrinth:
+
+```bash
+packwiz mr export
+```
+
+Build for release on CurseForge:
+
+```bash
+packwiz cf export
+```
 
 # License
 
