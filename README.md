@@ -36,7 +36,7 @@ go install github.com/packwiz/packwiz@latest
 
 ## Set up development instance of Minecraft
 
-Open PrismLauncher and add a new instance with the _Forge_ version listed in _pack.toml_ and run the instance once.
+Open PrismLauncher and add a new instance with the _Fabric_ version listed in _pack.toml_ and run the instance once.
 
 Download and add the latest [Packwiz Development installer](https://www.github.com/packwiz/packwiz-installer-bootstrap/releases) to the minecraft/ directory of the instance, make sure it is called _packwiz-installer-bootstrap.jar_. See below for the directory structure.
 
