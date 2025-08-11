@@ -1,13 +1,13 @@
 name = "Litematica Server Paster"
-filename = "litematica-server-paster-v1.3.6-mc1.21.5.jar"
+filename = "litematica-server-paster-v1.3.8-mc1.21.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HCbarMw6/versions/RetSp0Sh/litematica-server-paster-v1.3.6-mc1.21.5.jar"
-hash-format = "sha1"
-hash = "7e00bb1408c959b1f6631c7117921d516e16510a"
+url = "https://cdn.modrinth.com/data/HCbarMw6/versions/w7LRiMiC/litematica-server-paster-v1.3.8-mc1.21.8.jar"
+hash-format = "sha512"
+hash = "48c149aa2e7069eb1077aa80bc7ac2f2f62c2189fb522d4936dd5a7f74484e9028fc0f6784a8ab2e2e64b6d83e50208008504f819a285dfcb3b551ec4c3ff7bf"
 
 [update]
 [update.modrinth]
 mod-id = "HCbarMw6"
-version = "RetSp0Sh"
+version = "w7LRiMiC"

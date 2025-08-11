@@ -8,7 +8,6 @@ screenEffectScale:0.0
 darknessEffectScale:0.0
 narratorHotkey:false
 gamma:1.0
-graphicsMode:2
 maxFps:260
 simulationDistance:8
 resourcePacks:["vanilla","fabric","file/translations_for_sodium.zip","file/chat_reporting_helper.zip","continuity:glass_pane_culling_fix","continuity:default","file/redstone_tweaks.zip","itemswapper:default"]

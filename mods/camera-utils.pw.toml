@@ -1,13 +1,13 @@
 name = "Camera Utils"
-filename = "camerautils-fabric-1.21.5-1.0.16.jar"
+filename = "camerautils-fabric-1.21.8-1.1.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/rrwQMaWQ/versions/WMcxQNoc/camerautils-fabric-1.21.5-1.0.16.jar"
-hash-format = "sha1"
-hash = "e4da8c5b9ddbe3890d514683c1dc3444b77016dc"
+url = "https://cdn.modrinth.com/data/rrwQMaWQ/versions/bsClkwhQ/camerautils-fabric-1.21.8-1.1.0.jar"
+hash-format = "sha512"
+hash = "6e5eba1e39079b14e3ff19a532d4e55e7d4f15dd81b9ffd0a1a92480a81ade6a1a6f48f4c23cae5f2059a2d5e5d5b47cae0e526607681b8b89e03f71e92965fa"
 
 [update]
 [update.modrinth]
 mod-id = "rrwQMaWQ"
-version = "WMcxQNoc"
+version = "bsClkwhQ"
